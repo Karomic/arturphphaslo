@@ -40,5 +40,8 @@ $wszystko = array($malelitery, $duzelitery, $cyfry, $znaki);
         }
     }
 ?>
+<br><br><br><br><br><br>
+<img src="cwuczenia.png"><br><br><br>
+<img src="quiz.png"><br><br><br>
 </body>
 </html>
